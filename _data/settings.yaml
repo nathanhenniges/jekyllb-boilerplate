@@ -1,0 +1,27 @@
+#-------------------------------
+# General Site Settings
+
+name: MrDemonWolf
+google-analytics: UA-xxxx-1
+
+#-------------------------------
+# Menu Section
+
+menu:
+- {title: Home, url: '#'}
+- {title: About, url: '#about'}
+- {title: Projects, url: 'projects'}
+- {title: Contact, url: '#contact'}
+
+#-------------------------------
+# Social Icons and URls
+
+social:
+- {icon: 'fa-spotify', color: 'spotify-color', url: 'https://example.com'}
+
+#-------------------------------
+# Modified Date
+
+modified-date: September 25, 2017
+
+#-------------------------------

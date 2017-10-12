@@ -1,0 +1,24 @@
+{
+  "name": "jekyllb-boilerplateo",
+  "description": "jekyllb-boilerplateo",
+  "main": "gulpfile.js",
+  "authors": [
+    "DemonWolf"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/MrDemonWolf/jekyllb-boilerplateo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "letteringjs": "^0.7.0",
+    "fancybox": "^3.1.25",
+    "bootstrap": "3.3.7",
+    "cookieconsent": "^3.0.4"
+  }
+}
