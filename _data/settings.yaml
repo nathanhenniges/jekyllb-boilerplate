@@ -5,13 +5,18 @@ name: MrDemonWolf
 google-analytics: UA-xxxx-1
 
 #-------------------------------
+# SEO Section
+
+seo:
+  twitter-creator: 'https://www.twitter.com/mrdemonwolf'
+  twitter-site: 'https://www.twitter.com/mrdemonwolf'
+  type: 'website'
+
+#-------------------------------
 # Menu Section
 
 menu:
 - {title: Home, url: '#'}
-- {title: About, url: '#about'}
-- {title: Projects, url: 'projects'}
-- {title: Contact, url: '#contact'}
 
 #-------------------------------
 # Social Icons and URls

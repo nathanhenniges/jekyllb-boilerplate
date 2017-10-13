@@ -1,12 +1,12 @@
 {
-  "name": "jekyllb-boilerplateo",
-  "description": "jekyllb-boilerplateo",
+  "name": "jekyllb-boilerplate",
+  "description": "jekyllb-boilerplate",
   "main": "gulpfile.js",
   "authors": [
     "DemonWolf"
   ],
   "license": "BSD-2-Clause",
-  "homepage": "https://github.com/MrDemonWolf/jekyllb-boilerplateo",
+  "homepage": "https://github.com/MrDemonWolf/jekyllb-boilerplate",
   "ignore": [
     "**/.*",
     "node_modules",

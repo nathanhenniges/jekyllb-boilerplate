@@ -1,7 +1,7 @@
 {
-  "name": "jekyllb-boilerplateo",
+  "name": "jekyllb-boilerplate",
   "version": "1.0.0",
-  "description": "jekyllb-boilerplateo",
+  "description": "jekyllb-boilerplato",
   "main": "gulpfile.js",
   "scripts": {
     "preinstall": "bundle install",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrDemonWolf/jekyllb-boilerplateo.git"
+    "url": "https://github.com/MrDemonWolf/jekyllb-boilerplate.git"
   },
   "keywords": [
     "jekyll",
@@ -48,8 +48,8 @@
     "Webpack"
   ],
   "bugs": {
-    "url": "https://github.com/MrDemonWolf/jekyllb-boilerplateo/issues"
+    "url": "https://github.com/MrDemonWolf/jekyllb-boilerplate/issues"
   },
-  "homepage": "https://github.com/MrDemonWolf/jekyllb-boilerplateo",
+  "homepage": "https://github.com/MrDemonWolf/jekyllb-boilerplate",
   "dependencies": {}
 }
