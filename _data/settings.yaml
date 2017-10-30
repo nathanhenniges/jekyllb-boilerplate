@@ -1,8 +1,10 @@
 #-------------------------------
 # General Site Settings
+#-------------------------------
+# Menu Section
 
-name: MrDemonWolf
-google-analytics: UA-xxxx-1
+menu:
+- {title: Home, url: '#'}
 
 #-------------------------------
 # SEO Section
@@ -11,12 +13,7 @@ seo:
   twitter-creator: 'https://www.twitter.com/mrdemonwolf'
   twitter-site: 'https://www.twitter.com/mrdemonwolf'
   type: 'website'
-
-#-------------------------------
-# Menu Section
-
-menu:
-- {title: Home, url: '#'}
+  google-analytics: UA-xxxx-1
 
 #-------------------------------
 # Social Icons and URls
