@@ -19,11 +19,13 @@ description: Quick starter project for Jekyll including full setup for gulp, Sas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mrdemonwolf
+encoding: UTF-8
+brand-color: '#00328d'
 
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
