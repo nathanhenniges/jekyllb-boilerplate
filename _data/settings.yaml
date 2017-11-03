@@ -21,6 +21,9 @@ seo:
 social:
 - {icon: 'fa-spotify', color: 'spotify-color', url: 'https://example.com'}
 
+social-url:
+  spotify: https://open.spotify.com/user/demonwolf97
+
 #-------------------------------
 # Modified Date
 
