@@ -10,8 +10,8 @@ menu:
 # SEO Section
 
 seo:
-  twitter-creator: 'https://www.twitter.com/mrdemonwolf'
-  twitter-site: 'https://www.twitter.com/mrdemonwolf'
+  twitter-creator: 'https://www.twitter.com/example'
+  twitter-site: 'https://www.twitter.com/example'
   type: 'website'
   google-analytics: UA-xxxx-1
 
@@ -22,7 +22,7 @@ social:
 - {icon: 'fa-spotify', color: 'spotify-color', url: 'https://example.com'}
 
 social-url:
-  spotify: https://open.spotify.com/user/demonwolf97
+  spotify: https://example.com
 
 #-------------------------------
 # Modified Date

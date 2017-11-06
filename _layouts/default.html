@@ -83,15 +83,6 @@
         "{{ site.data.setttings.social-url.spotify}}"
       ],
       "email": "{{ site.email }}",
-      "foundingDate": "2012",
-      "foundingLocation": "Wisconsin, United States",
-      "member": {
-        "@type": "Person",
-        "name": "Nathan Hernniges",
-        "jobTitle": "Owner",
-        "nationality": "American",
-        "url": "https://www.keybase.com/demonwolf/"
-      },
       "logo": "{{ site.url }}{{ site.baseurl }}/assets/logos/logo.png"
     }
     </script>
@@ -145,7 +136,7 @@
             <script>
               document.write("" + new Date().getFullYear());
             </script>
-            <a href="/">{{ site.title }}</a>
+            <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }}</a>
             <span>, All rights reserved</span>
           </div>
         </div>

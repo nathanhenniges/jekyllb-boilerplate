@@ -1,4 +1,6 @@
-/* _base.scss */
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
 // Fonts
 $main-font: 'Oswald', sans-serif;
 $second-font: "Times New Roman", Times, serif;
@@ -29,8 +31,6 @@ $nav-bgHighlight    : #ffffff;
 $nav-colDefault     : #25aae1;
 $nav-colHighlight   : #00328d;
 $nav-dropdown       : true;
-// Site URLs
-// $site-url: 'https://mrdemonwolf.me';
-$site-url: 'http://localhost:4000'; /* Dev */
-
-@import "../modules/all";
+// Buttons
+$button_background_effect_font: #ffffff;
+$button_background_effect: #00709f;
