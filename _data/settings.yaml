@@ -14,6 +14,7 @@ seo:
   twitter-site: '@example'
   type: 'website'
   google-analytics: UA-xxxx-1
+  url:
 
 #-------------------------------
 # Social Icons and URls

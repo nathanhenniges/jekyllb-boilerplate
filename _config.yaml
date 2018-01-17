@@ -17,8 +17,7 @@ title: "MrDemonWolf Boilerplate"
 email: your-email@domain.com
 description: Quick starter project for Jekyll including full setup for gulp, Sass, Autoprefixer, Browserify, Imagemin, Browsersync, PostCSS etc.
 keywords:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+subpath: "" # the subpath of your site, e.g. /blog
 github_username: mrdemonwolf
 encoding: UTF-8
 brand-color: '#00328d'
