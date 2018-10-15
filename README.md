@@ -1,4 +1,4 @@
-﻿# MrDemonwolf Jekyll Boilerplate
+﻿# Jekyll Boilerplate
 
 __Jekyll starter project including full setup for gulp, Sass, Autoprefixer, Browserify, imagemin, Browsersync, PostCSS etc.__
 
