@@ -16,7 +16,7 @@ user the installer, Homebrew, etc.
 ### Local Installation
 Clone this repo, or download it into a directory of your choice.
 ```sh
-$ git clone https://github.com/mrdemonwolf/jekyll-boilerplate.git
+$ git clone https://github.com/nathanhenniges/jekyll-boilerplate.git
 ```
 Inside the directory, run `npm install`.
 ```sh
@@ -195,5 +195,5 @@ example: `["pluginA.js", "pluginB.js", "main.js"]`
 
 ## Copyright and License
 
-Copyright 2018 MrDemonWolf. Code released under the [MIT](https://github.com/mrdemonwolf/jekyllrb-boilerplate/blob/master/LICENSE) license.
+Copyright 2018 Nathan Henniges. Code released under the [MIT](https://github.com/nathanhenniges/jekyllrb-boilerplate/blob/master/LICENSE) license.
 
